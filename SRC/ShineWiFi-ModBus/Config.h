@@ -24,7 +24,7 @@
 
 // Enable OTA update via espota. This is mainly for development purposes and enables updates
 // of the device without physical access. Use at our own risk!
-#define OTA_SUPPORTED 0
+#define OTA_SUPPORTED 1
 #define OTA_PASSWORD "enter_ota_secret_here"
 
 // Enable direct modbus read/write support via the WebGUI. Enabling this is a potential security issue.
